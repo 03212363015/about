@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.home{
+    background: url(https://img.freepik.com/premium-photo/business-background-teamwork-double-exposure-effect-with-city-buildings-illustration_691560-8263.jpg);
+    background-size: cover;
+}
+.nav-link:hover
+    {
+        color: green !important;
+
+}
